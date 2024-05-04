@@ -1,8 +1,8 @@
-Insured,Mastered Name,Premium,dateBound,dateOfBirth,Genre,Image URL,Image Width,Image Height,Spotify URI
-Taylor Swift,,1E+06,10/12/2023,,,,,,
-Fred Again,,3E+04,14/02/2024,,,,,,
-Green Day,,1.2E+05,11/11/2023,,,,,,
-Dried Spider,,1E+08,23/04/2024,,,,,,
-Kali Uchiz,,1.3E+05,15/03/2024,,,,,,
-Steve Lacy,,9E+03,09/02/2024,,,,,,
-Taylor Swoft,,7E+06,03/04/2024,,,,,,
+,Insured,Premium,dateBound,dateOfBirth,Mastered Name,Genre,Image URL,Image Width,Image Height,Spotify URI
+0,Taylor Swift,1000000.0,10/12/2023,,Taylor Swift,['pop'],https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676,640.0,640.0,spotify:artist:06HL4z0CvFAxyc27GXpf02
+1,Fred Again,30000.0,14/02/2024,,Fred again..,"['edm', 'house', 'stutter house']",https://i.scdn.co/image/ab6761610000e5eb69eea22d7189af21794f3043,640.0,640.0,spotify:artist:4oLeXFyACqeem2VImYeBFe
+2,Green Day,120000.0,11/11/2023,,Green Day,"['modern rock', 'permanent wave', 'punk', 'rock']",https://i.scdn.co/image/ab6761610000e5eb6ff0cd5ef2ecf733804984bb,640.0,640.0,spotify:artist:7oPftvlwr6VrsViSDV7fJY
+3,Dried Spider,10000,23/04/2024,,Dried Spider,[],https://i.scdn.co/image/ab6761610000e5eb854034f03fd912972daf51d8,640.0,640.0,spotify:artist:6KG5xGfyTD22KGnHreO6ek
+4,Kali Uchiz,130000.0,15/03/2024,,Kali Uchis,['colombian pop'],https://i.scdn.co/image/ab6761610000e5eb51dfdac248da65a860963b68,640.0,640.0,spotify:artist:1U1el3k54VvEUzo3ybLPlM
+5,Steve Lacy,9000.0,09/02/2024,,Steve Lacy,['afrofuturism'],https://i.scdn.co/image/ab6761610000e5eb09ac9d040c168d4e4f58eb42,640.0,640.0,spotify:artist:57vWImR43h4CaDao012Ofp
+6,Taylor Swoft,7000000.0,03/04/2024,,Taylor Swift,['pop'],https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676,640.0,640.0,spotify:artist:06HL4z0CvFAxyc27GXpf02
